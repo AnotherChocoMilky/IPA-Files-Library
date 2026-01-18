@@ -17,7 +17,7 @@
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/Stable_1-3-5.ipa",
       "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/Nuvio.png",
-      "fileSizeMB": 38.7
+      "size": 40579891
     },
     {
       "name": "SpotC++",
@@ -29,7 +29,7 @@
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/SpotC++.ipa",
       "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/SpotC.png",
-      "fileSizeMB": 87.4
+      "size": 91645542
     },
     {
       "name": "Portal",
@@ -41,7 +41,7 @@
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/Portal.ipa",
       "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/WSF.png",
-      "fileSizeMB": 21.8
+      "size": 22858957
     },
     {
       "name": "P12Cracker (beta)",
@@ -53,7 +53,7 @@
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/P12Cracker-not-done-1.1-beta-works.ipa",
       "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/P12.png",
-      "fileSizeMB": 1.9
+      "size": 1992294
     },
     {
       "name": "HDFlix",
@@ -65,7 +65,7 @@
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/HDFlix-v4.0-AP29.ipa",
       "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/HDFlix.png",
-      "fileSizeMB": 14.7
+      "size": 15414067
     },
     {
       "name": "DebToIPA",
@@ -77,7 +77,7 @@
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/DebToIPA-1.1.1.ipa",
       "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/DebToIPA.png",
-      "fileSizeMB": 1.2
+      "size": 1258291
     },
     {
       "name": "Cash App++ v5 Trial",
@@ -89,7 +89,7 @@
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/Cash.App++.v5.trial.ipa",
       "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/Cash.App.webp",
-      "fileSizeMB": 7.9
+      "size": 8283750
     },
     {
       "name": "Ad Speed Dylib",
@@ -101,7 +101,7 @@
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/adspeed.dylib",
       "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/Dylib.webp",
-      "fileSizeMB": 0.149
+      "size": 156238
     }
   ],
   "icons": {
