@@ -1,0 +1,90 @@
+{
+  "name": "Choco Milky Sideloading iOS Repo",
+  "identifier": "com.chocomilky.iosrepo",
+  "subtitle": "Sideloading library",
+  "description": "A hosted library of iOS IPAs for sideloading.",
+  "website": "https://github.com/AnotherChocoMilky/IPA-Files-Library",
+  "sourceURL": "https://YOUR-DOMAIN-HERE/source.json",
+  "apps": [
+    {
+      "name": "Nuvio",
+      "bundleIdentifier": "com.chocomilky.nuvio",
+      "developerName": "Choco Milky",
+      "subtitle": "Movie & TV streaming, supports Stremio addons. Status: Working ✅",
+      "description": "Movie & TV streaming, supports Stremio addons. Status: Working ✅",
+      "version": "1.3.5",
+      "versionDate": "2026-01-17",
+      "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/Stable_1-3-5.ipa"
+    },
+    {
+      "name": "SpotC++",
+      "bundleIdentifier": "com.chocomilky.spotcpp",
+      "developerName": "Choco Milky",
+      "subtitle": "Eevee Spotify Reborn compiled into an IPA file. Status: Working ✅",
+      "description": "Eevee Spotify Reborn compiled into an IPA file. Status: Working ✅",
+      "version": "2.6.3",
+      "versionDate": "2026-01-17",
+      "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/SpotC++.ipa"
+    },
+    {
+      "name": "Portal",
+      "bundleIdentifier": "com.chocomilky.portal",
+      "developerName": "WSF",
+      "subtitle": "IPA signer and repo importer. Status: Working ✅",
+      "description": "IPA signer and repo importer. Status: Working ✅",
+      "version": "1.0.0",
+      "versionDate": "2026-01-17",
+      "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/Portal.1.ipa"
+    },
+    {
+      "name": "P12Cracker (beta)",
+      "bundleIdentifier": "com.chocomilky.p12cracker",
+      "developerName": "Choco Milky",
+      "subtitle": "Cracks the password of .p12 files. Needs an API key. Status: Working ✅",
+      "description": "Cracks the password of .p12 files. Needs an API key. Status: Working ✅",
+      "version": "1.1-beta",
+      "versionDate": "2026-01-17",
+      "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/P12Cracker-not-done-1.1-beta-works.ipa"
+    },
+    {
+      "name": "HDFlix",
+      "bundleIdentifier": "com.chocomilky.hdflix",
+      "developerName": "Choco Milky",
+      "subtitle": "Movie & TV show streaming app. Status: Working ✅",
+      "description": "Movie & TV show streaming app. Status: Working ✅",
+      "version": "4.0.0",
+      "versionDate": "2026-01-17",
+      "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/HDFlix-v4.0-AP29.ipa"
+    },
+    {
+      "name": "DebToIPA",
+      "bundleIdentifier": "com.chocomilky.debtoipa",
+      "developerName": "Choco Milky",
+      "subtitle": "Convert .deb files into IPA files. (Only works for debs made to be an IPA) Status: Working ✅",
+      "description": "Convert .deb files into IPA files. (Only works for debs made to be an IPA) Status: Working ✅",
+      "version": "1.1.1",
+      "versionDate": "2026-01-17",
+      "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/DebToIPA-1.1.1.ipa"
+    },
+    {
+      "name": "Cash App++ v5 Trial",
+      "bundleIdentifier": "com.chocomilky.cashappplusplus",
+      "developerName": "Choco Milky",
+      "subtitle": "Tweaked Cash App with fake money and payments. (Does not give real money) Status: Working ✅",
+      "description": "Tweaked Cash App with fake money and payments. (Does not give real money) Status: Working ✅",
+      "version": "5.0.0",
+      "versionDate": "2026-01-17",
+      "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/Cash.App++.v5.trial.ipa"
+    },
+    {
+      "name": "Ad Speed Dylib",
+      "bundleIdentifier": "com.chocomilky.adspeed",
+      "developerName": "Choco Milky",
+      "subtitle": "A cool .dylib file for making in-app ads faster. Status: Working ✅",
+      "description": "A cool .dylib file for making in-app ads faster. Status: Working ✅",
+      "version": "1.0.0",
+      "versionDate": "2026-01-17",
+      "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/adspeed.dylib"
+    }
+  ]
+}
