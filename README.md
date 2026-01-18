@@ -1,77 +1,111 @@
-# IPA Files Library
+# 🚀 IPA Files Library
 
-![Stars](https://img.shields.io/github/stars/AnotherChocoMilky/IPA-Files-Library?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/AnotherChocoMilky/IPA-Files-Library?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/AnotherChocoMilky/IPA-Files-Library?style=for-the-badge)
-![License](https://img.shields.io/github/license/AnotherChocoMilky/IPA-Files-Library?style=for-the-badge)
+<p align="center">
+  <a href="https://github.com/AnotherChocoMilky/IPA-Files-Library/stargazers">
+    <img src="https://img.shields.io/github/stars/AnotherChocoMilky/IPA-Files-Library?style=for-the-badge" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/AnotherChocoMilky/IPA-Files-Library">
+    <img src="https://img.shields.io/github/repo-size/AnotherChocoMilky/IPA-Files-Library?style=for-the-badge" alt="Repo Size" />
+  </a>
+  <a href="https://github.com/AnotherChocoMilky/IPA-Files-Library/commits/main">
+    <img src="https://img.shields.io/github/last-commit/AnotherChocoMilky/IPA-Files-Library?style=for-the-badge" alt="Last Commit" />
+  </a>
+  <a href="https://github.com/AnotherChocoMilky/IPA-Files-Library/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/AnotherChocoMilky/IPA-Files-Library?style=for-the-badge" alt="License" />
+  </a>
+</p>
 
-A curated library of IPA files for iOS sideloading.
+<p align="center">
+  <b>The Ultimate IPA Archive for iOS Sideloading, Testing & Preservation</b><br />
+  Built by <b>Choco Milky Sideloading</b> • Made for learning, testing, and personal use
+</p>
 
-This project is created and maintained by **Choco Milky Sideloading** and is intended for educational and personal use only.
+<p align="center">
+  ⭐ <a href="https://github.com/AnotherChocoMilky/IPA-Files-Library/stargazers"><b>Click here to Star this repo</b></a> ⭐
+</p>
 
 ---
 
-## 📦 About
+## 📦 What Is This?
 
-**IPA Files Library** is a collection of IPA files designed to be used with iOS sideloading tools.  
-The purpose of this repository is to help users access apps for testing, research, preservation, and personal use.
+**IPA Files Library** is a carefully organized collection of `.ipa` files designed for **iOS sideloading**, **app testing**, **research**, and **digital preservation**.
 
-This project is **not intended to promote piracy, copyright infringement, or illegal distribution of software**.
+This repository exists to help users explore iOS apps outside the App Store environment in a **responsible**, **educational**, and **non-commercial** way.
+
+> Think of this as a digital museum for iOS apps — preserved, organized, and easy to access.
 
 ---
 
-## 🚀 Features
+## ✨ Why This Repo Is Awesome
 
-- Organized IPA file collection
-- Easy to browse and download
-- Useful for sideloading and testing
-- Focused on preservation and learning
-- Updated when possible
+* 📁 Clean, organized IPA file structure
+* 🔍 Easy browsing & downloading
+* 🧪 Perfect for testing & research
+* 🧠 Educational & archival focus
+* 🔄 Updated when possible
+* 🚀 Works with popular sideloading tools
 
 ---
 
 ## 📱 How to Use
 
-1. Choose an IPA file from the repository
-2. Download it to your device or computer
-3. Sideload it using your preferred tool, such as:
-   - AltStore
-   - Sideloadly
-   - TrollStore (if supported)
-   - Other iOS sideloading tools
+1. Browse the repository and select an IPA file
+2. Download the file to your device or computer
+3. Sideload using your preferred tool:
+
+**Recommended tools:**
+
+* AltStore
+* Sideloadly
+* TrollStore (if supported)
+* Any compatible iOS sideloading utility
 
 ---
 
-## ⚠️ Disclaimer & Copyright Notice
+## ⚠️ Important Disclaimer (Read This)
 
-- This repository is **not intended for piracy**
-- No encouragement of copyright infringement is provided
-- All apps belong to their respective developers and copyright holders
-- Users are responsible for ensuring they have the legal right to install and use any IPA file
-- This repository is intended for **educational, archival, testing, and personal use only**
-- If you are a developer or copyright holder and would like content removed, please open an issue or request a takedown
-
----
-
-## 📄 License
-
-This project does not include a specific license unless explicitly stated.  
-Please respect original developers, licenses, and local laws.
+* ❌ This project does **NOT** promote piracy
+* ⚖️ All apps belong to their respective developers and copyright holders
+* 👤 You are responsible for ensuring you have the legal right to install and use any app
+* 🎓 Intended for **educational, archival, testing, and personal use only**
+* 📩 If you are a developer or copyright holder and want content removed, please open an issue or request a takedown
 
 ---
 
-## 👤 Author
+## 📄 License & Legal
 
-**Choco Milky Sideloading**  
-GitHub: [AnotherChocoMilky](https://github.com/AnotherChocoMilky)
+This repository does not claim ownership over any included applications.
 
-If you find this project helpful, consider giving it a ⭐ on GitHub.
+Unless explicitly stated, **no license is granted for the apps themselves** — only for the repository structure and documentation.
+
+Please respect:
+
+* Original app licenses
+* Developers’ rights
+* Your local laws
 
 ---
 
-## 💬 Support
+## 👤 Maintained By
 
-- Open an issue for questions or concerns
-- Pull requests and suggestions are welcome
+**Choco Milky Sideloading**
 
-Happy sideloading! 🚀
+* GitHub: [https://github.com/AnotherChocoMilky](https://github.com/AnotherChocoMilky)
+
+---
+
+## 💖 Support the Project
+
+If this repository helped you:
+
+* ⭐ **Star the repo** → [https://github.com/AnotherChocoMilky/IPA-Files-Library/stargazers](https://github.com/AnotherChocoMilky/IPA-Files-Library/stargazers)
+* 🐛 Open an issue for bugs or requests
+* 🔧 Submit pull requests or improvements
+
+Every star seriously helps 💫
+
+---
+
+<p align="center">
+  <b>Happy sideloading & stay curious 🚀</b>
+</p>
