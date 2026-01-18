@@ -5,9 +5,7 @@
   "description": "A hosted library of iOS IPAs for sideloading.",
   "website": "https://github.com/AnotherChocoMilky/IPA-Files-Library",
   "sourceURL": "https://YOUR-DOMAIN-HERE/source.json",
-
   "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/Repo.Icon.jpeg",
-
   "apps": [
     {
       "name": "Nuvio",
@@ -18,7 +16,8 @@
       "version": "1.3.5",
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/Stable_1-3-5.ipa",
-      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/Nuvio.png"
+      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/Nuvio.png",
+      "fileSizeMB": 38.7
     },
     {
       "name": "SpotC++",
@@ -29,7 +28,8 @@
       "version": "2.6.3",
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/SpotC++.ipa",
-      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/SpotC.png"
+      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/SpotC.png",
+      "fileSizeMB": 87.4
     },
     {
       "name": "Portal",
@@ -40,7 +40,8 @@
       "version": "1.2.1",
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/Portal.ipa",
-      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/WSF.png"
+      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/WSF.png",
+      "fileSizeMB": 21.8
     },
     {
       "name": "P12Cracker (beta)",
@@ -51,7 +52,8 @@
       "version": "1.1-beta",
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/P12Cracker-not-done-1.1-beta-works.ipa",
-      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/P12.png"
+      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/P12.png",
+      "fileSizeMB": 1.9
     },
     {
       "name": "HDFlix",
@@ -62,7 +64,8 @@
       "version": "4.0.0",
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/HDFlix-v4.0-AP29.ipa",
-      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/HDFlix.png"
+      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/HDFlix.png",
+      "fileSizeMB": 14.7
     },
     {
       "name": "DebToIPA",
@@ -73,7 +76,8 @@
       "version": "1.1.1",
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/DebToIPA-1.1.1.ipa",
-      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/DebToIPA.png"
+      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/DebToIPA.png",
+      "fileSizeMB": 1.2
     },
     {
       "name": "Cash App++ v5 Trial",
@@ -84,7 +88,8 @@
       "version": "5.0.0",
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/Cash.App++.v5.trial.ipa",
-      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/Cash.App.webp"
+      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/Cash.App.webp",
+      "fileSizeMB": 7.9
     },
     {
       "name": "Ad Speed Dylib",
@@ -95,10 +100,10 @@
       "version": "1.0.0",
       "versionDate": "2026-01-17",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v1/adspeed.dylib",
-      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/Dylib.webp"
+      "iconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/Dylib.webp",
+      "fileSizeMB": 0.149
     }
   ],
-
   "icons": {
     "repoIconURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/22/Repo.Icon.jpeg"
   }
