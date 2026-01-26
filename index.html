@@ -34,6 +34,33 @@
     hr {
       border-color: #333;
     }
+
+    /* Added: button-style links near top badges */
+    .top-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      margin: 0.75rem 0 0.25rem;
+    }
+    .top-buttons a {
+      color: #fff !important;
+      text-decoration: none;
+      background: #1f1f1f;
+      border: 1px solid #333;
+      padding: 0.55rem 0.9rem;
+      border-radius: 10px;
+      font-weight: 600;
+      transition: transform 0.05s ease, background 0.15s ease, border-color 0.15s ease;
+    }
+    .top-buttons a:hover {
+      background: #262626;
+      border-color: #bb86fc;
+      transform: translateY(-1px);
+    }
+    .top-buttons a:active {
+      transform: translateY(0);
+    }
   </style>
 </head>
 <body>
@@ -55,6 +82,12 @@
     <img src="https://img.shields.io/github/license/AnotherChocoMilky/IPA-Files-Library?style=for-the-badge" alt="License" />
   </a>
 </p>
+
+<!-- Added buttons near the top (below the badge row) -->
+<div class="top-buttons">
+  <a href="https://choco-x.vercel.app" target="_blank" rel="noopener noreferrer">Go to ChocoX</a>
+  <a href="https://ipa-files-library.vercel.app/repo.json" target="_blank" rel="noopener noreferrer">View repo JSON</a>
+</div>
 
 <p align="center">
   <b>The Ultimate IPA Archive for iOS Sideloading, Testing & Preservation</b><br />
