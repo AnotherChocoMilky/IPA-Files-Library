@@ -1,0 +1,26 @@
+{
+  "name": "Repo Lol",
+  "identifier": "com.skibidi.repozaa",
+  "subtitle": "A sideloading repo",
+  "description": "IPA file test repo",
+  "website": "",
+  "sourceURL": "",
+  "iconURL": "https://i.ibb.co/7J7ncVm9/IMG-2568.jpg",
+  "apps": [
+    {
+      "name": "Stupid Nigga App",
+      "bundleIdentifier": "com.nigger.app",
+      "developerName": "Some Cunt Ass Nigger",
+      "subtitle": "Young, dumb, and full of cum",
+      "description": "Young, dumb, and full of cum",
+      "version": "6.7",
+      "versionDate": "2026-03-06",
+      "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v2/SpotC++.ipa",
+      "iconURL": "https://i.ibb.co/7J7ncVm9/IMG-2568.jpg",
+      "size": 87435216
+    }
+  ],
+  "icons": {
+    "repoIconURL": "https://i.ibb.co/7J7ncVm9/IMG-2568.jpg"
+  }
+}
