@@ -1,5 +1,5 @@
 {
-  "name": "Repo Lol",
+  "name": "Dumbass’s Repository",
   "identifier": "com.skibidi.repozaa",
   "subtitle": "A sideloading repo",
   "description": "IPA file test repo",
@@ -8,16 +8,28 @@
   "iconURL": "https://i.ibb.co/7J7ncVm9/IMG-2568.jpg",
   "apps": [
     {
-      "name": "Stupid Nigga App",
-      "bundleIdentifier": "com.nigger.app",
+      "name": "SpotC",
+      "bundleIdentifier": "com.spottay.app",
       "developerName": "Some Cunt Ass Nigger",
-      "subtitle": "Young, dumb, and full of cum",
+      "subtitle": "Literally just Eevee Spotify compiled",
       "description": "Young, dumb, and full of cum",
       "version": "6.7",
       "versionDate": "2026-03-06",
       "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v2/SpotC++.ipa",
       "iconURL": "https://i.ibb.co/7J7ncVm9/IMG-2568.jpg",
       "size": 87435216
+    },
+    {
+      "name": "NegroFlix",
+      "bundleIdentifier": "com.negro.flix",
+      "developerName": "GLIZZY NIGGA",
+      "subtitle": "Young dumb and full of cum",
+      "description": "Fuck this app man it’s weird nah I’m kidding it’s really cool u can stream shit it’s called Hd Flix not Negro",
+      "version": "4.1",
+      "versionDate": "2026-03-06",
+      "downloadURL": "https://github.com/AnotherChocoMilky/IPA-Files-Library/releases/download/v2/HD.Flix.No.Ads.v2.0-2.ipa",
+      "iconURL": "https://i.ibb.co/7J7ncVm9/IMG-2568.jpg",
+      "size": 14664935
     }
   ],
   "icons": {
